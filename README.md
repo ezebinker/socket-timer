@@ -79,5 +79,5 @@ cd socket-timer
 npm start
 ```
 
-## Referencias
+## References
 [Medium - Combining React With Socket.io](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
