@@ -1,7 +1,7 @@
 # Socket Timer
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ezebinker/socket-timer/blob/master/README.en.md)
 
-Socket Timer es una SPA desarrollado con React, que recibe datos desde un servidor Node.js. Utiliza Socket.io para establecer comunicación entre el front y el back en tiempo real. 
+Socket Timer es una SPA desarrollada con React, que recibe datos desde un servidor Node.js. Utiliza Socket.io para establecer comunicación entre el front y el back en tiempo real. 
 
 ## Instalación
 
