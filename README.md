@@ -1,17 +1,17 @@
 # Socket Timer
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ezebinker/socket-timer/blob/master/README.en.md)
 
-Socket Timer is a SPA done with React that recieves data from a Node.js server. It uses Socket.io to enable real-time communication 
+Socket Timer es un SPA desarrollado con React, que recibe datos desde un servidor Node.js. Utiliza Socket.io para establecer comunicación entre el front y el back en tiempo real. 
 
-## Installation
+## Instalación
 
-Clone repo and install all dependencies using *npm* (Node Package Manager). 
+Clonar el repositorio e instalar todas las dependencias utilizando *npm* (Node Package Manager). 
 
 ```bash
 npm install
 ```
 
-## Usage
+## Definición de los archivos principales
 
 ### *api.js*
 ```javascript
@@ -61,7 +61,7 @@ console.log("listening on port ", port);
 
 ```
 
-## Run
+## Ejecución
 
 ### Back
 
@@ -80,5 +80,5 @@ cd socket-timer
 npm start
 ```
 
-## References
+## Referencias
 [Medium - Combining React With Socket.io](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
