@@ -1,4 +1,5 @@
 # Socket Timer
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ezebinker/socket-timer/blob/master/README.md)
 
 Socket Timer is a SPA done with React that recieves data from a Node.js server. It uses Socket.io to enable real-time communication 
 
